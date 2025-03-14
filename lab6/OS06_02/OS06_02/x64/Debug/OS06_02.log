@@ -1,0 +1,35 @@
+﻿Сборка начата 21.10.2024 15:21:12.
+Уровень детализации журнала: Normal.     1>Проект "C:\labs\ОС\OS06_02\OS06_02\OS06_02.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "C:\labs\ОС\OS06_02\x64\Debug\".
+         Создание каталога "x64\Debug\OS06_02.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\OS06_02.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\vs ))))))))))\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt OS06_02.cpp
+         OS06_02.cpp
+     1>C:\labs\ОС\OS06_02\OS06_02\OS06_02.cpp(1,4): error C2014: команда препроцессора не должна начинаться с пробела
+     1>C:\vs ))))))))))\VC\Tools\MSVC\14.33.31629\include\sal.h(2361,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+     1>C:\vs ))))))))))\VC\Tools\MSVC\14.33.31629\include\sal.h(2361,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>C:\labs\ОС\OS06_02\OS06_02\OS06_02.cpp(34,3): error C3861: printf: идентификатор не найден
+     1>C:\labs\ОС\OS06_02\OS06_02\OS06_02.cpp(42,2): error C2065: cout: необъявленный идентификатор
+     1>C:\labs\ОС\OS06_02\OS06_02\OS06_02.cpp(67,3): error C3861: printf: идентификатор не найден
+     1>C:\labs\ОС\OS06_02\OS06_02\OS06_02.cpp(75,2): error C2065: cout: необъявленный идентификатор
+     1>Сборка проекта "C:\labs\ОС\OS06_02\OS06_02\OS06_02.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "C:\labs\ОС\OS06_02\OS06_02\OS06_02.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\labs\ОС\OS06_02\OS06_02\OS06_02.cpp(1,4): error C2014: команда препроцессора не должна начинаться с пробела
+         C:\vs ))))))))))\VC\Tools\MSVC\14.33.31629\include\sal.h(2361,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+         C:\vs ))))))))))\VC\Tools\MSVC\14.33.31629\include\sal.h(2361,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+         C:\labs\ОС\OS06_02\OS06_02\OS06_02.cpp(34,3): error C3861: printf: идентификатор не найден
+         C:\labs\ОС\OS06_02\OS06_02\OS06_02.cpp(42,2): error C2065: cout: необъявленный идентификатор
+         C:\labs\ОС\OS06_02\OS06_02\OS06_02.cpp(67,3): error C3861: printf: идентификатор не найден
+         C:\labs\ОС\OS06_02\OS06_02\OS06_02.cpp(75,2): error C2065: cout: необъявленный идентификатор
+
+    Предупреждений: 0
+    Ошибок: 7
+
+Прошло времени 00:00:00.63
