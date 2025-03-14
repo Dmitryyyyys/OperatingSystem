@@ -1,0 +1,15 @@
+C:\labs\ОС\lab5\OS05_02\OS05_02\bin\Debug\net6.0\OS05_02.exe
+C:\labs\ОС\lab5\OS05_02\OS05_02\bin\Debug\net6.0\OS05_02.deps.json
+C:\labs\ОС\lab5\OS05_02\OS05_02\bin\Debug\net6.0\OS05_02.runtimeconfig.json
+C:\labs\ОС\lab5\OS05_02\OS05_02\bin\Debug\net6.0\OS05_02.dll
+C:\labs\ОС\lab5\OS05_02\OS05_02\bin\Debug\net6.0\OS05_02.pdb
+C:\labs\ОС\lab5\OS05_02\OS05_02\obj\Debug\net6.0\OS05_02.csproj.AssemblyReference.cache
+C:\labs\ОС\lab5\OS05_02\OS05_02\obj\Debug\net6.0\OS05_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\ОС\lab5\OS05_02\OS05_02\obj\Debug\net6.0\OS05_02.AssemblyInfoInputs.cache
+C:\labs\ОС\lab5\OS05_02\OS05_02\obj\Debug\net6.0\OS05_02.AssemblyInfo.cs
+C:\labs\ОС\lab5\OS05_02\OS05_02\obj\Debug\net6.0\OS05_02.csproj.CoreCompileInputs.cache
+C:\labs\ОС\lab5\OS05_02\OS05_02\obj\Debug\net6.0\OS05_02.dll
+C:\labs\ОС\lab5\OS05_02\OS05_02\obj\Debug\net6.0\refint\OS05_02.dll
+C:\labs\ОС\lab5\OS05_02\OS05_02\obj\Debug\net6.0\OS05_02.pdb
+C:\labs\ОС\lab5\OS05_02\OS05_02\obj\Debug\net6.0\OS05_02.genruntimeconfig.cache
+C:\labs\ОС\lab5\OS05_02\OS05_02\obj\Debug\net6.0\ref\OS05_02.dll
