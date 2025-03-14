@@ -1,0 +1,15 @@
+C:\labs\ОС\lab4\OS04_10\OS04_10\bin\Debug\net6.0\OS04_10.exe
+C:\labs\ОС\lab4\OS04_10\OS04_10\bin\Debug\net6.0\OS04_10.deps.json
+C:\labs\ОС\lab4\OS04_10\OS04_10\bin\Debug\net6.0\OS04_10.runtimeconfig.json
+C:\labs\ОС\lab4\OS04_10\OS04_10\bin\Debug\net6.0\OS04_10.dll
+C:\labs\ОС\lab4\OS04_10\OS04_10\bin\Debug\net6.0\OS04_10.pdb
+C:\labs\ОС\lab4\OS04_10\OS04_10\obj\Debug\net6.0\OS04_10.csproj.AssemblyReference.cache
+C:\labs\ОС\lab4\OS04_10\OS04_10\obj\Debug\net6.0\OS04_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\ОС\lab4\OS04_10\OS04_10\obj\Debug\net6.0\OS04_10.AssemblyInfoInputs.cache
+C:\labs\ОС\lab4\OS04_10\OS04_10\obj\Debug\net6.0\OS04_10.AssemblyInfo.cs
+C:\labs\ОС\lab4\OS04_10\OS04_10\obj\Debug\net6.0\OS04_10.csproj.CoreCompileInputs.cache
+C:\labs\ОС\lab4\OS04_10\OS04_10\obj\Debug\net6.0\OS04_10.dll
+C:\labs\ОС\lab4\OS04_10\OS04_10\obj\Debug\net6.0\refint\OS04_10.dll
+C:\labs\ОС\lab4\OS04_10\OS04_10\obj\Debug\net6.0\OS04_10.pdb
+C:\labs\ОС\lab4\OS04_10\OS04_10\obj\Debug\net6.0\OS04_10.genruntimeconfig.cache
+C:\labs\ОС\lab4\OS04_10\OS04_10\obj\Debug\net6.0\ref\OS04_10.dll

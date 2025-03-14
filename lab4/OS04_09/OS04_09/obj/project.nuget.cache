@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SktyQXjpsNxqMxeBTyy69/QIYfAv+YGAsUGWuzwMfyps36iWCgGmOyTthH8Kc4g1MpsP8DmKERd5fUay2x7Rvg==",
+  "success": true,
+  "projectFilePath": "C:\\labs\\ОС\\lab4\\OS04_09\\OS04_09\\OS04_09.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\37529\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\37529\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\37529\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\37529\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\37529\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
