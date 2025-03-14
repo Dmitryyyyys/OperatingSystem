@@ -1,0 +1,59 @@
+﻿Сборка начата 04.11.2024 20:50:36.
+Уровень детализации журнала: Normal.     1>Проект "C:\labs\ОС\lab9\OS09_01\OS09_01\OS09_01.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "C:\labs\ОС\lab9\OS09_01\x64\Debug\".
+         Создание каталога "x64\Debug\OS09_01.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\OS09_01.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\vs ))))))))))\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt OS09_01.cpp
+         OS09_01.cpp
+     1>C:\vs ))))))))))\VC\Tools\MSVC\14.33.31629\include\xstring(2824,53): warning C4244: аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+                 with
+                 [
+                     _Elem=char
+                 ]
+       C:\vs ))))))))))\VC\Tools\MSVC\14.33.31629\include\xstring(2664): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*>(_Iter,const _Iter)"
+                 with
+                 [
+                     _Iter=wchar_t *
+                 ]
+       C:\vs ))))))))))\VC\Tools\MSVC\14.33.31629\include\xstring(2664): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*>(_Iter,const _Iter)"
+                 with
+                 [
+                     _Iter=wchar_t *
+                 ]
+       C:\labs\ОС\lab9\OS09_01\OS09_01\OS09_01.cpp(16): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+                     _Alloc=std::allocator<char>
+                 ]
+       C:\labs\ОС\lab9\OS09_01\OS09_01\OS09_01.cpp(16): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+                     _Alloc=std::allocator<char>
+                 ]
+     1>C:\labs\ОС\lab9\OS09_01\OS09_01\OS09_01.cpp(92): warning C4715: printFileTxt: значение возвращается не при всех путях выполнения
+       Link:
+         C:\vs ))))))))))\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\labs\ОС\lab9\OS09_01\x64\Debug\OS09_01.exe" /INCREMENTAL /ILK:"x64\Debug\OS09_01.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\labs\ОС\lab9\OS09_01\x64\Debug\OS09_01.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\labs\ОС\lab9\OS09_01\x64\Debug\OS09_01.lib" /MACHINE:X64 x64\Debug\OS09_01.obj
+         OS09_01.vcxproj -> C:\labs\ОС\lab9\OS09_01\x64\Debug\OS09_01.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\OS09_01.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\OS09_01.tlog\OS09_01.lastbuildstate".
+     1>Сборка проекта "C:\labs\ОС\lab9\OS09_01\OS09_01\OS09_01.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\labs\ОС\lab9\OS09_01\OS09_01\OS09_01.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\vs ))))))))))\VC\Tools\MSVC\14.33.31629\include\xstring(2824,53): warning C4244: аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+         C:\labs\ОС\lab9\OS09_01\OS09_01\OS09_01.cpp(92): warning C4715: printFileTxt: значение возвращается не при всех путях выполнения
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:01.98
